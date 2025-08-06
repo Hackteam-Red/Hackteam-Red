@@ -4,8 +4,6 @@
 
 ![HackTeam.Red Banner](https://img.shields.io/badge/HackTeam-Red-red?style=for-the-badge&logo=github)
 [![Members](https://img.shields.io/badge/Members-Recruiting-brightgreen?style=flat-square)](#-join-us)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord)](https://discord.gg/hackteamred)
-[![CTF Rank](https://img.shields.io/badge/CTF-Top%20100-gold?style=flat-square)](https://ctftime.org/team/hackteamred)
 
 *Ethical Hacking • Cybersecurity Research • Red Team Operations*
 
@@ -82,7 +80,7 @@ mindmap
 
 ## 🌟 **Featured Projects**
 
-### 🔥 **Artaxerxesk**
+### 🔥 **Artaxerxes**
 > Artaxerxes - Adaptive High-Performance Stress Tester v.1.0. Rebuild old version Xerxes DDoS. Supports GPU+io_uring, DPDK, eBPF/XDP with intelligent fallbacks. Educational tool for advanced cybersecurity labs.
 
 ### 🕷️ **indulgentia**
