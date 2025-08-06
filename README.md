@@ -138,7 +138,7 @@ mindmap
 
 ### **Community**
 
-- 💬 [**Matrix Server**](#r00m:undead.moscow) — Real-time team communication
+- 💬 [**Matrix Server**](https://undead.moscow/) — Real-time team communication (channel: #r00m)
 - 📱 [**Dev.to News**](https://dev.to/toxy4ny/) — Security news and updates  
 - 🐦 [**DefCon Social**](https://zpj4sjt4a5ah53s34utu2xhs7owdmgknc3xzvv6chpiodw5rdknkzbid.onion/@toxy4ny) — Public announcements
 
