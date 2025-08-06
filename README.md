@@ -59,15 +59,6 @@ mindmap
 
 ---
 
-## 📊 **Statistics**
-
-<div align="center">
-
-![Hackteam_Red's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxy4ny&show_icons=true&theme=shadow_red)
-![Hackteam-Red's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toxy4ny&theme=shadow_red)
-
-</div>
-
 ### **2025 Achievements**
 
 - 🥇 **15+ Organisation Top 10 Tentest Finishes**
