@@ -20,7 +20,6 @@
 - **🔍 Vulnerability Research** — Discovering and responsibly disclosing security flaws
 - **🎭 Red Team Operations** — Simulating advanced persistent threats for defense improvement  
 - **🛠️ Security Tool Development** — Creating open-source security tools and frameworks
-- **🏁 CTF Competitions** — Participating in and organizing Capture The Flag events
 - **📚 Security Education** — Sharing knowledge through workshops, articles, and training
 - **🤝 Community Engagement** — Contributing to the global cybersecurity community
 
