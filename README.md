@@ -63,7 +63,7 @@ mindmap
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackteam-red&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackteam-Red&show_icons=true&theme=dark&count_private=true)
 
 </div>
 
