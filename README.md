@@ -107,7 +107,7 @@ mindmap
 - ☁️ **Cloud Security Team** → Multi-cloud security assessment
 - 🔧 **Exploit Development** → 0-day research and weaponization
 - 🏆 **VX Competition Squad** → Professional VX team
-
+- 💥 **AD Penetration Technique** → Windows and Active Directory pentesting
 ---
 
 ## 🚀 **Join Us**
